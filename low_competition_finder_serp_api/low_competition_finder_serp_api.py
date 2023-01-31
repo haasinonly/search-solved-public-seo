@@ -1,3 +1,4 @@
+pip install chardet
 import streamlit as st
 
 # region format
